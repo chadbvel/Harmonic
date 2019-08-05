@@ -7,7 +7,7 @@ body{
 
 /* Global */
 .container{
-  width:80%;
+  width:100%;
   margin:auto;
   overflow:hidden;
 }
@@ -161,11 +161,6 @@ article#main-col{
   width:65%;
 }
 
-/* Viewport  */
-@viewport {
-  zoom: 1.0;
-}
-
 
 
   header{
@@ -185,4 +180,6 @@ article#main-col{
     width:100%;
     margin-bottom:5px;
   }
+ #bot{
+   background-color:#222f3e;}
 }
