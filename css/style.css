@@ -113,6 +113,7 @@ header a:hover{
 
 #newsletter h1{
   text-align: center;
+  font-size: 150%;
   color:#266A2E;
 }
 
@@ -184,5 +185,9 @@ article#main-col{
  #bot{
    background-color:#222f3e;
    padding-top: 2%;
+ }
+
+ #top{
+   font-family: 'Righteous', cursive;
  }
 }
